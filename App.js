@@ -1,5 +1,5 @@
 import React from 'react';
-import SetCadetLoc from './MyComponents/SetCadetLoc';
+import SetCadetLoc from './SetCadetLoc';
 
 function App() {
   return (
